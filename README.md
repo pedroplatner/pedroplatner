@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2 align="left">Olá Eu sou o Pedro</h2>
 
-<!--
-**pedroplatner/pedroplatner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroplatner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroplatner&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">Minha primeira experiência com código foi na época em que personalizar sites no Wix era febre. Eu passava horas tentando mudar cores, fontes e organizar os elementos da página do meu jeito. O tempo simplesmente voava.<br><br>Foi aí que descobri a magia da programação: transformar ideias em algo visual e funcional. Era como montar um quebra-cabeça, onde cada peça se encaixava até formar algo incrível. Desde então, essa curiosidade só cresceu, e hoje sigo explorando novas tecnologias e desafios.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pedroplatner/pedroplatner/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
