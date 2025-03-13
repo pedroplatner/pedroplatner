@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Descobri a magia da programação: transformar ideias em algo visual e funcional. É como montar um quebra-cabeça, onde cada peça se encaixa até formar algo incrível. Desde então, essa curiosidade só cresceu, e hoje sigo explorando novas tecnologias e desafios.</p>
+<p align="left">Quando Descobri a magia da programação, pude ver que transformar ideias em algo visual e funcional. É como montar um quebra-cabeça, onde cada peça se encaixa até formar algo incrível. Desde então, essa curiosidade só cresceu, e hoje sigo explorando novas tecnologias e desafios.</p>
 
 ###
 
