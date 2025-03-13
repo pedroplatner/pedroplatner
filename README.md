@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Minha primeira experiência com código foi na época em que personalizar sites no Wix era febre. Eu passava horas tentando mudar cores, fontes e organizar os elementos da página do meu jeito. O tempo simplesmente voava.<br><br>Foi aí que descobri a magia da programação: transformar ideias em algo visual e funcional. Era como montar um quebra-cabeça, onde cada peça se encaixava até formar algo incrível. Desde então, essa curiosidade só cresceu, e hoje sigo explorando novas tecnologias e desafios.</p>
+<p align="left">Descobri a magia da programação: transformar ideias em algo visual e funcional. É como montar um quebra-cabeça, onde cada peça se encaixa até formar algo incrível. Desde então, essa curiosidade só cresceu, e hoje sigo explorando novas tecnologias e desafios.</p>
 
 ###
 
