@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Sou um Programador Front-end, de 22 anos. 💻<br>Cursando Análise e Desenvolvimento de Sistemas. 📙</p>
+<h4 align="left">Sou um Programador Front-end, de 22 anos. 💻<br>Cursando Análise e Desenvolvimento de Sistemas. 📙</h4>
 
 ###
 
-<h3 align="left">Quando Descobri a magia da programação, pude ver que transformar ideias em algo visual e funcional. É como montar um quebra-cabeça, onde cada peça se encaixa até formar algo incrível. Desde então, essa curiosidade só cresceu, e hoje sigo explorando novas tecnologias e desafios.</h3>
+<h6 align="left">Quando Descobri a magia da programação, pude ver que transformar ideias em algo visual e funcional. É como montar um quebra-cabeça, onde cada peça se encaixa até formar algo incrível. Desde então, essa curiosidade só cresceu, e hoje sigo explorando novas tecnologias e desafios.</h6>
 
 ###
 
